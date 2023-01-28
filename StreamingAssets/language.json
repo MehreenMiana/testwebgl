@@ -1,0 +1,21 @@
+{
+  "_meta": {
+    "maxChars": {
+      "welcome": 20,
+      "readyToPlay": 20,
+      "pressContinue": 50,
+      "greatJob": 20,
+      "onePlusOne": 30
+    }
+  },
+  "en": {
+    "CharCreate.Welcome": "Hello!",
+    "CharCreate.WelcomeInstruction": "Please choose what you look like",
+    "CharCreate.Hair": "Hair",
+    "CharCreate.Face": "Face",
+    "CharCreate.Eyes": "Eyes",
+    "CharCreate.SettingsButton": "Settings",
+    "GeneralUIStrings.StartGameButton": "Start Game",
+    "GeneralUIStrings.ContinueGameButton": "Continue Game"
+  }
+}
